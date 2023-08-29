@@ -1,2 +1,24 @@
+a{
+	text-decoration:none;
+	color:black;
+}
+li{
+	list-style-type:none;
+}
+ul{
+	display:flex;
+	background-color:lightseagreen;
+	padding:10px;
+}
+li{
+	margin-inline:15px;
+}
+video{
+	width:200px;
+	height:100px;
+	display:block;
+	margin-bottom:40px;
+}
 
-/* Your CSS Code here. */
+
+
